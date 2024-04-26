@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FelixJohan
-- 👀 I’m interested in Cyberrsecurity
+- 👀 I’m interested in Cyberrsecurity/Electronics/🎩hacking
 - 🌱 I’m currently persuing Electronics and Communication
 - 💞️ I’m looking to collaborate on enthusiast who know hacking
 - 📫 Y'all can reach me on www.linkedin.com/in/felixjohany
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 <!---
 FelixJohan/FelixJohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
